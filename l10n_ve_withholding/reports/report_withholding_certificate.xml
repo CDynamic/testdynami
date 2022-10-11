@@ -192,7 +192,7 @@
         name="l10n_ve_withholding.report_withholding_certificate"
         file="l10n_ve_withholding.report_withholding_certificate"
         print_report_name="'Certificado de Retención - %s' % (object.withholding_number or '')"
-        paperformat="report_qweb_paperformat_l"
+        paperformat="report_qweb_paperformat_l_ISLR"
     />
 
 
